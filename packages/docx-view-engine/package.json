@@ -1,0 +1,7 @@
+{
+  "name": "docx-view-engine",
+  "version": "1.0.0",
+  "main": "./file.ts",
+  "types": "./file.ts",
+  "sideEffects": false
+}
